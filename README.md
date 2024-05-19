@@ -24,9 +24,9 @@ Computer programming student at Universidad Tecnológica Nacional **[UTN]**
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)  
 ---
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffedericodeniard%2F)
-![Static Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=fededeniard%40gmail.com)
-![Static Badge](https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2Ffededeniard)
+<a href="https://www.linkedin.com/in/federicodeniard/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:fededeniard@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://discord.com/users/fededeniard" target="_blank"><img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 
 
 

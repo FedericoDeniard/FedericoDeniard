@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About me  
+###  About me  
 💻 I'm a Computer Programming student at Universidad Tecnológica Nacional **[UTN]**, passionate about web development and constantly learning new technologies.  
 🌱 Currently focusing on backend development and building full-stack applications using modern tools.  
 🚀 I enjoy working on collaborative projects and exploring new challenges.
   
-###💻 Programming Languages  
+### 💻 Programming Languages  
 
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
@@ -27,18 +27,18 @@ Here are some ideas to get you started:
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)  
 ---
-###🗄️ Databases  
+### 🗄️ Databases  
 
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![SQL](https://img.icons8.com/?size=48&id=J6KcaRLsTgpZ&format=png&color=000000)
 ---
-###🚀 Frameworks & Libraries
+### 🚀 Frameworks & Libraries
 
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![Flask](https://img.icons8.com/?size=48&id=ewGOClUtmFX4&format=png&color=000000)
 ---
-###🛠 Tools & Environments  
+### 🛠 Tools & Environments  
 
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)

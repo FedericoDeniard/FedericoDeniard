@@ -15,23 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me  
-Computer programming student at Universidad Tecnológica Nacional **[UTN]**  
+💻 I'm a Computer Programming student at Universidad Tecnológica Nacional **[UTN]**, passionate about web development and constantly learning new technologies.  
+🌱 Currently focusing on backend development and building full-stack applications using modern tools.  
+🚀 I enjoy working on collaborative projects and exploring new challenges.
   
-### Programming languages that I use  
-![TypeScript](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)
+###💻 Programming Languages  
+
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
 ![Python](https://img.icons8.com/color/48/000000/python.png) 
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)  
 ---
-### Databases that I use
-![MongoDB](https://icons8.com/icon/74402/mongodb)
-![SQL](https://icons8.com/icon/J6KcaRLsTgpZ/sql)
+###🗄️ Databases  
+
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![SQL](https://img.icons8.com/?size=48&id=J6KcaRLsTgpZ&format=png&color=000000)
 ---
-### Frameworks that I use
-![Node.Js](https://icons8.com/icon/hsPbhkOH4FMe/node-js)
-![React](https://img.icons8.com/color/48/000000/react-native.png) 
-![Flask](https://icons8.com/icon/MHcMYTljfKOr/flask)
+###🚀 Frameworks & Libraries
+
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Flask](https://img.icons8.com/?size=48&id=ewGOClUtmFX4&format=png&color=000000)
+---
+###🛠 Tools & Environments  
+
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)
+![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![Postman](https://img.icons8.com/?size=48&id=IoYmHUxgvrFB&format=png&color=000000)
+![Docker](https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png&color=000000)
 
 <a href="https://www.linkedin.com/in/federicodeniard/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:fededeniard@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
